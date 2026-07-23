@@ -2,8 +2,8 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int candidate = nums[0];
-        int power = 0;
-        for(int i = 0; i < nums.size(); i++) {
+        int power = 1;
+        for(int i = 1; i < nums.size(); i++) {
             if(nums[i] == candidate) {
                 power += 1;
             }
