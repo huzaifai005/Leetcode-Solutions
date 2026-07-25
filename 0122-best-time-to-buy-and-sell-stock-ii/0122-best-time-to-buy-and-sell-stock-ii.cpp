@@ -10,7 +10,6 @@ public:
                 totalProfit += profit;
             }
             cost = prices[i];
-            
         }
     return totalProfit;
     }
