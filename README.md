@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
