@@ -13,7 +13,7 @@ public:
                 continue;
             }
             if(i == 0) {
-                if(flowerbed[i] == 0 && flowerbed[i + 1] == 0) {
+                if(flowerbed[i + 1] == 0) {
                     flowerbed[i] = 1;
                     planted++;
                 }
