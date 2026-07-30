@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0724-find-pivot-index](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Two Pointers
@@ -73,5 +74,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
