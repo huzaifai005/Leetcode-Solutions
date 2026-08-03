@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
