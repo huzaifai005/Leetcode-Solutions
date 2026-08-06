@@ -6,7 +6,7 @@ public:
 
     int maxVowels(string s, int k) {
         int count = 0;
-        int maxcount;
+        int maxcount = 0;
         for(int i = 0; i < k; i++) {
             if(isVowel(s[i])) {
                 count += 1;
