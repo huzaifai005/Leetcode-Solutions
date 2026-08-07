@@ -1,21 +1,15 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int j = 0;
-        vector<int> indices;
-        for(int i = j + 1; i < nums.size(); i++) {
-            if(nums[i] + nums[j] == target) {
-                indices.push_back(j);
-                indices.push_back(i);
-                return indices;
+        std::unordered_map<int, int> notebook;
+        int needed;
+        for(int i = 0; i < nums.size(); i++) {
+            needed = target - nums[i];
+            if(notebook.count(needed)) {
+                return {notebook[needed], i};
             }
-            if(i == nums.size() - 1 && j < nums.size() - 1) {
-                i = j + 1;
-                j++;
-            }
+            notebook[nums[i]] = i;
         }
-        indices.push_back(0);
-        indices.push_back(0);
-        return indices;
+        return {0, 0};
     }
 };
