@@ -8,14 +8,9 @@ public:
                 current++;
             }
             else {
-                if(current > max) {
-                    max = current;
-                }
                 current = 0;
             }
-        }
-        if(current > max) {
-            max = current;
+            max = std::max(max, current);
         }
         return max;
     }
