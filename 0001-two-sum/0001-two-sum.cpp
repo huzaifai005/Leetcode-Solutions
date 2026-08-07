@@ -1,17 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        int j = 0;
         vector<int> indices;
-        for(int i = 0; i < nums.size()-1; i++) {
-            indices.push_back(i);
-            for(int j = i+1; j < nums.size(); j++) {
-                if(nums[i] + nums[j] == target) {
-                    indices.push_back(j);
-                    return indices;
-                }
+        for(int i = j + 1; i < nums.size(); i++) {
+            if(nums[i] + nums[j] == target) {
+                indices.push_back(j);
+                indices.push_back(i);
+                return indices;
             }
-            indices.pop_back();
+            if(i == nums.size() - 1 && j < nums.size() - 1) {
+                i = j + 1;
+                j++;
+            }
         }
+        indices.push_back(0);
+        indices.push_back(0);
         return indices;
-}
+    }
 };
