@@ -7,12 +7,12 @@ public:
         std::vector<int> final2;
 
         for(int nums : set1) {
-            if(set2.count(nums) == false) {
+            if(set2.count(nums) == 0) {
                 final1.push_back(nums);
             }
         }
         for(int nums : set2) {
-            if(set1.count(nums) == false) {
+            if(set1.count(nums) == 0) {
                 final2.push_back(nums);
             }
         }    
