@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3945-digit-frequency-score](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3945-digit-frequency-score](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
