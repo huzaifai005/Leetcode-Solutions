@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqueEven(vector<int>& nums) {
-        std::map<int, int> map1;
+        std::unordered_map<int, int> map1;
         for(int num : nums) {
             map1[num]++;
         }
