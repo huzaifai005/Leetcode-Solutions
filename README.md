@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Divide and Conquer
