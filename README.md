@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
