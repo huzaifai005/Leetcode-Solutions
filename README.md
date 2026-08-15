@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
