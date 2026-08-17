@@ -1,21 +1,21 @@
 class Solution {
 public:
     int minLength(string s) {
-        std::string s1;
+        std::stack<char> stack;
         for(int i = 0; i < s.size(); i++) {
-            if(s1.empty()) {
-                s1.push_back(s[i]);
+            if(stack.empty()) {
+                stack.push(s[i]);
             }
-            else if(s[i] == 'B' && s1.back() == 'A') {
-                s1.pop_back();
+            else if(s[i] == 'B' && stack.top() == 'A') {
+                stack.pop();
             }
-            else if(s[i] == 'D' && s1.back() == 'C') {
-                s1.pop_back();
+            else if(s[i] == 'D' && stack.top() == 'C') {
+                stack.pop();
             }
             else {
-                s1.push_back(s[i]);
+                stack.push(s[i]);
             }
         }
-        return s1.size();
+        return stack.size();
     }
 };
