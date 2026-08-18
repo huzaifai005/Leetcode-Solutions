@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -139,16 +140,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
