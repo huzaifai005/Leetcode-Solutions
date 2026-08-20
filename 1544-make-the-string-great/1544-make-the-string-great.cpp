@@ -7,7 +7,7 @@ public:
             if(stack.empty()) {
                 stack.push(s[i]);
             }
-            else if(isupper(s[i]) && islower(stack.top()) && s[i] == toupper(stack.top()) || islower(s[i]) && isupper(stack.top()) && s[i] == tolower(stack.top())) {
+            else if(std::abs(s[i] - stack.top()) == 32) {
                 stack.pop();
             }
             else {
