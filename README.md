@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
