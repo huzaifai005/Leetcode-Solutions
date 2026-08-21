@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1598-crawler-log-folder](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
