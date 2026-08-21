@@ -11,12 +11,10 @@ public:
                 stack.push(s[i]);
             }
         }
-        int size = stack.size();
-        for(int i = 0; i < size; i++) {
-            s1.push_back(stack.top());
+        while(!stack.empty()) {
+            s1 =stack.top() + s1;
             stack.pop();
         }
-        std::reverse(s1.begin(), s1.end());
         return s1;
     }
 };
