@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Prefix Sum
@@ -151,12 +152,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3174-clear-digits](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
