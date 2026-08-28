@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
