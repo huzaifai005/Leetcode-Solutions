@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -183,4 +184,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0394-decode-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
