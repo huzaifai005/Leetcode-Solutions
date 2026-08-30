@@ -7,8 +7,7 @@ public:
     
     int ping(int t) {
         q.push(t);
-        int cutoff = t - 3000;
-        while(q.front() < cutoff) {
+        while(q.front() < t - 3000) {
             q.pop();
         }
         return q.size();
