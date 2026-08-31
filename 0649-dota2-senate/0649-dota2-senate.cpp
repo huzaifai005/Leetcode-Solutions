@@ -23,11 +23,6 @@ public:
                 dire.pop();
             }
         }
-        if(!radiant.empty()) {
-            return "Radiant";
-        }
-        else {
-            return "Dire";
-        }
+        return(radiant.empty()) ? ("Dire") : ("Radiant");
     }
 };
