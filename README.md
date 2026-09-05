@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -195,4 +196,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
