@@ -12,10 +12,9 @@ class Solution {
 public:
     int getDecimalValue(ListNode* head) {
         int binary = 0;
-        ListNode* temp = head;
-        while(temp != nullptr) {
-            binary = (binary << 1) | temp->val;
-            temp = temp->next;
+        while(head != nullptr) {
+            binary = (binary << 1) | head->val;
+            head = head->next;
         }
         return binary;
     }
