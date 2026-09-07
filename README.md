@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -200,4 +201,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
