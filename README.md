@@ -208,4 +208,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [1683-invalid-tweets](https://github.com/huzaifai005/Leetcode-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
